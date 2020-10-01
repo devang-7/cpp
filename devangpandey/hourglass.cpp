@@ -30,7 +30,7 @@ int main()
     }
     //MIDDLE_L
     n = 2;
-    spaces = spaces - 2;
+    spaces -=  2;
 
     while (n < x)
     {
